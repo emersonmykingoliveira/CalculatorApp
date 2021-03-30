@@ -1,0 +1,9 @@
+C:\Users\emers_u0qkjxg\source\repos\Calculator\CalculatorLibrary\bin\Debug\netcoreapp3.1\CalculatorLibrary.deps.json
+C:\Users\emers_u0qkjxg\source\repos\Calculator\CalculatorLibrary\bin\Debug\netcoreapp3.1\CalculatorLibrary.dll
+C:\Users\emers_u0qkjxg\source\repos\Calculator\CalculatorLibrary\bin\Debug\netcoreapp3.1\CalculatorLibrary.pdb
+C:\Users\emers_u0qkjxg\source\repos\Calculator\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.csprojAssemblyReference.cache
+C:\Users\emers_u0qkjxg\source\repos\Calculator\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\emers_u0qkjxg\source\repos\Calculator\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.AssemblyInfo.cs
+C:\Users\emers_u0qkjxg\source\repos\Calculator\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\emers_u0qkjxg\source\repos\Calculator\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.dll
+C:\Users\emers_u0qkjxg\source\repos\Calculator\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.pdb
